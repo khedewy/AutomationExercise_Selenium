@@ -1,0 +1,21 @@
+[
+  {
+
+    "name" : "mahmoud",
+    "email" : "Khedewy200qa@gmail.com",
+    "password":"M0987654321",
+    "day":"22",
+    "month" : "April",
+    "year" :"2001",
+    "firstName" : "Mahmoud",
+    "lastName": "Khedewy",
+    "company" : "Microsoft",
+    "address1" : "Egypt",
+    "address2" : "Sohag",
+    "country" : "Singapore",
+    "state" : "Maragha",
+    "city" : "sohag",
+    "zip" :"1234",
+    "mobNumber" :"9876445"
+  }
+]
